@@ -12,9 +12,10 @@
 ## Entre em contato
 <div>
   <a href="https://www.instagram.com/iagoliziero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<br><br>
+<br>
 Número de contanto: (11) 91962-0763
-  
+<br>
 linkedin: https://www.linkedin.com/in/iago-liziero-54b81232b/
+<br>
 E-mail de contato: contatoiagoliziero@gmail.com
 </div>
