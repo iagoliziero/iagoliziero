@@ -2,7 +2,6 @@
 
 ## 💻 Ferramentas e Tecnologias
 <div>
-  <p> Atualmente estou estudando Javascript e node.js. </p>
   <img src="https://img.shields.io/badge/HTML5-f56320?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/CSS3-2079f5?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/JavaScript-d0d02f?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
@@ -11,7 +10,6 @@
 
 ## Entre em contato
 <div>
-  <a href="https://www.instagram.com/iagoliziero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br>
 Número de contanto: (11) 91962-0763
 <br>
