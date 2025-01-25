@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Eaee,+sou+o+Iago+Liziero.;Eaee,+sou+o+Iago+Liziero.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Eaee,+sou+o+Iago+Liziero.;Front-end+developer.)](https://git.io/typing-svg)
 
 ## 💻 Ferramentas e Tecnologias
 <div>
