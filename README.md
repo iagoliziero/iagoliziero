@@ -1,12 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Eaee,+sou+o+Iago+Liziero.;Full+stack+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Prazer,+sou+o+Iago+Liziero!;Full+stack+developer.)](https://git.io/typing-svg)
 
 ## 📌 Sobre mim
 
-Hello World, meu nome é Iago Liziero! Sempre fui fascinado por tecnologia, o que me levou a estudar Análise e Desenvolvimento de Sistemas na FIAP e ETEC.
+Hello World! Sou Iago Liziero, tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e ETEC. 
 
-Ao longo da minha jornada, tive experiências tanto no desenvolvimento front-end quanto back-end, explorando diversas linguagens e frameworks. 
-
-Atualmente, estou focado no desenvolvimento de aplicações full stack, integrando essas áreas para criar soluções eficientes e de alto desempenho.
+Tenho experiência em front-end e back-end, e atualmente estou focado no desenvolvimento full stack, criando soluções eficientes e de alto desempenho.
 
 ## 💻 Ferramentas e tecnologias
 <div>
