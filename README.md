@@ -2,7 +2,7 @@
 
 ## 📌 Sobre mim
 
-Hello World! Sou Iago Liziero, tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e ETEC. 
+Hello World! Sou Iago Liziero, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e ETEC. 
 
 Tenho experiência em front-end e back-end, e atualmente estou focado no desenvolvimento full stack, criando soluções eficientes e de alto desempenho.
 
