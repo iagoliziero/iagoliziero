@@ -9,7 +9,7 @@ Tenho experiência em front-end e back-end, e atualmente estou focado no desenvo
 ## 💻 Stacks
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,vite,react,prisma,nodejs,mysql,mongodb,express)](https://skillic)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,vite,react,next,prisma,nodejs,mysql,mongodb,express)](https://skillic)
 
 ## Entre em contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Iagoliziero/)
